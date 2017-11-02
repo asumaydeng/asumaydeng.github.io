@@ -68,7 +68,7 @@ a:hover {
 }
 
 .fa {
-    padding 0px 400px 20px 0px;
+    padding: 0px 20px 20px 20px;
     width: 2em;
     text-decoration: none;
     border-radius: 50%;
