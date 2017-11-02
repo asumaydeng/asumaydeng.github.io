@@ -23,6 +23,16 @@
   flex-basis: 50%;
 }
 
+@media only screen and (max-width: 600px) {
+  .column.intro {
+    width:100%;
+    }
+  }
+  .column.main {
+    width:100%;
+  }
+}
+
 .linksout {
   font-size: 1.3em;
   text-align: center;
